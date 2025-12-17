@@ -1,0 +1,11 @@
+flask
+pyngrok
+transformers
+torch
+torchaudio
+safetensors
+datasets
+accelerate
+jiwer
+torchcodec
+librosa
