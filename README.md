@@ -2,6 +2,8 @@
 
 **A multi-agent ensemble Automatic Speech Recognition system for isiZulu — a critically under-resourced South African language.**
 
+[![Live Demo](https://img.shields.io/badge/🤗%20Live%20Demo-isizulu--asr-blue)](https://huggingface.co/spaces/lsgmgbl/isizulu-asr-demo)
+
 > Research project completed in 2025 under the supervision of Prof. Duncan Coulter, University of Johannesburg. Part of a BSc Honours in Computer Science (Artificial Intelligence).
 
 ---
